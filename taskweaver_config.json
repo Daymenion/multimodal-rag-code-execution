@@ -1,9 +1,9 @@
 {
-    "llm.api_base": "https://<resource>.openai.azure.com/",
-    "llm.api_key":  "<key>",
+    "llm.api_base": "https://ds-openai-eastus.openai.azure.com/",
+    "llm.api_key":  "<446b103c2a744bfd8d6249e481a39a49>",
     "llm.api_type": "azure",
     "llm.api_version": "2024-02-15-preview",
-    "llm.model": "gpt-4",
+    "llm.model": "gpt-4o",
     "llm.embedding_api_type": "openai",
     "llm.embedding_model": "text-embedding-ada-002",
     "session.code_interpreter_only":"false",
