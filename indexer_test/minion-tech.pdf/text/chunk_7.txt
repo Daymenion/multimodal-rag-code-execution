@@ -1,0 +1,103 @@
+<!-- PageNumber="13 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="minion-tech.md" -->
+<!-- PageHeader="2024-01-06" -->
+
+
+<figure>
+</figure>
+
+
+<!-- PageNumber="14 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="2024-01-06" -->
+<!-- PageHeader="minion-tech.md" -->
+
+
+# 10. Appendices
+
+
+## Financial Statements
+
+
+### 1. Balance Sheet
+
+o Details assets, liabilities, and equity.
+☐
+
+
+#### Balance Sheet
+
+
+<table>
+<tr>
+<th>Assets</th>
+<th>Amount (USD)</th>
+</tr>
+<tr>
+<td>Cash and Cash Equivalents</td>
+<td>$500,000</td>
+</tr>
+<tr>
+<td>Accounts Receivable</td>
+<td>$300,000</td>
+</tr>
+<tr>
+<td>Inventory</td>
+<td>$400,000</td>
+</tr>
+<tr>
+<td>Prepaid Expenses</td>
+<td>$100,000</td>
+</tr>
+<tr>
+<td>Property, Plant, and Equipment</td>
+<td>$1,200,000</td>
+</tr>
+<tr>
+<td>Total Assets</td>
+<td>$2,500,000</td>
+</tr>
+<tr>
+<td>Liabilities and Equity</td>
+<td>Amount (USD)</td>
+</tr>
+<tr>
+<td>Accounts Payable</td>
+<td>$300,000</td>
+</tr>
+<tr>
+<td>Accrued Liabilities</td>
+<td>$200,000</td>
+</tr>
+<tr>
+<td>Long-term Debt</td>
+<td>$1,700,000</td>
+</tr>
+<tr>
+<td>Total Liabilities</td>
+<td>$2,200,000</td>
+</tr>
+<tr>
+<td>Equity</td>
+<td>$300,000</td>
+</tr>
+<tr>
+<td>Total Liabilities and Equity</td>
+<td>$2,500,000</td>
+</tr>
+</table>
+
+
+<!-- PageNumber="15 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="2024-01-06" -->
+<!-- PageHeader="minion-tech.md" -->
+
+
+### 2. Cash Flow Statement
+
+o Outlines the cash inflows and outflows over the fiscal year.

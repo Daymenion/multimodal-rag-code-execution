@@ -1,0 +1,36 @@
+### Image Description
+
+#### 1. Information Conveyed
+The image is a bar chart titled "R&D Expenditure (USD)" which displays the Research and Development expenditure over three years: 2021, 2022, and 2023. The expenditure is shown in USD on the Y-axis, ranging from $440,000 to $620,000.
+
+#### 2. Contextual Information
+Given the context of a document discussing financial data or company investments, this image adds quantitative data about the company's R&D spending over the specified years. It visually represents the increase in expenditure, indicating a trend of growing investment in R&D.
+
+#### 3. Objects in the Image
+- **Bars**: Three vertical bars representing the years 2021, 2022, and 2023.
+- **Y-Axis**: Labeled with expenditure amounts in USD, ranging from $440,000 to $620,000.
+- **X-Axis**: Labeled with the years 2021, 2022, and 2023.
+- **Title**: "R&D Expenditure (USD)" at the top center of the chart.
+
+#### 4. Numerical Chart Description
+The chart shows the following data:
+- **2021**: Approximately $500,000
+- **2022**: Approximately $580,000
+- **2023**: Approximately $600,000
+
+#### Markdown Table Representation
+```markdown
+| Year | R&D Expenditure (USD) |
+|------|-----------------------|
+| 2021 | 500,000               |
+| 2022 | 580,000               |
+| 2023 | 600,000               |
+```
+
+#### Python Code for Pandas DataFrame
+
+
+### Extracted Text
+```EXTRACTED TEXT
+R&D Expenditure (USD)
+```

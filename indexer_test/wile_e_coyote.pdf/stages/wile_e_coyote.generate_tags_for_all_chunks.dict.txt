@@ -1,0 +1,545 @@
+{
+    "document_id": "2720f4b8-62bc-898a-7c54-842756faed6b",
+    "original_document_path": "sample_data\\wile_e_coyote.pdf",
+    "original_document_filename": "wile_e_coyote.pdf",
+    "original_document_extension": ".pdf",
+    "index_name": "indexer_test",
+    "document_processing_directory": "../indexer_test\\wile_e_coyote.pdf",
+    "document_ingestion_directory": "../indexer_test",
+    "document_downloads_directory": "../indexer_test\\downloads",
+    "ingestion_directory": "../indexer_test",
+    "download_directory": "../indexer_test\\downloads",
+    "document_path": "../indexer_test\\wile_e_coyote.pdf\\wile_e_coyote.pdf",
+    "master_py_file": "../indexer_test\\wile_e_coyote.pdf\\wile_e_coyote.py",
+    "full_text_file": "../indexer_test\\wile_e_coyote.pdf\\wile_e_coyote.txt",
+    "image_files": [
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.png",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.png",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.png",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.png",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.png",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.png",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.png"
+    ],
+    "tables_py": [],
+    "tables_md": [],
+    "table_files": [],
+    "text_files": [
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_1.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_2.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_3.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_4.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_5.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_6.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_7.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_8.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_9.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_10.txt"
+    ],
+    "image_text_files": [
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.txt"
+    ],
+    "table_text_files": [],
+    "py_files": [
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.py"
+    ],
+    "codeblock_files": [
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.codeblock"
+    ],
+    "markdown_files": [],
+    "mermaid_files": [],
+    "basename": "wile_e_coyote",
+    "extension": ".pdf",
+    "extract_text_mode": "PDF",
+    "extract_images_mode": "PDF",
+    "extract_text_from_images": true,
+    "chunks_as_images_directory": "../indexer_test\\wile_e_coyote.pdf\\chunk_images",
+    "images_directory": "../indexer_test\\wile_e_coyote.pdf\\images",
+    "text_directory": "../indexer_test\\wile_e_coyote.pdf\\text",
+    "tables_directory": "../indexer_test\\wile_e_coyote.pdf\\tables",
+    "chunk_size": 512,
+    "chunk_overlap": 128,
+    "delete_existing_output_dir": false,
+    "processing_mode_pdf": "hybrid",
+    "doc_path": "sample_data\\wile_e_coyote.pdf",
+    "processing_mode": "hybrid",
+    "num_chunks": 12,
+    "document_file_path": "../indexer_test\\wile_e_coyote.pdf\\wile_e_coyote.pdf",
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_0.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_0.tags.txt"
+        },
+        {
+            "chunk_number": 2,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_1.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_1.tags.txt"
+        },
+        {
+            "chunk_number": 3,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_2.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_2.tags.txt"
+        },
+        {
+            "chunk_number": 4,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_3.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_3.tags.txt"
+        },
+        {
+            "chunk_number": 5,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_4.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_4.tags.txt"
+        },
+        {
+            "chunk_number": 6,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_5.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_5.tags.txt"
+        },
+        {
+            "chunk_number": 7,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_6.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_6.tags.txt"
+        },
+        {
+            "chunk_number": 8,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_7.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_7.tags.txt"
+        },
+        {
+            "chunk_number": 9,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_8.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_8.tags.txt"
+        },
+        {
+            "chunk_number": 10,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_9.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_9.tags.txt"
+        },
+        {
+            "chunk_number": 11,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_10.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_10.tags.txt"
+        },
+        {
+            "chunk_number": 12,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 13,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.py"
+            ],
+            "image_codeblock": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.codeblock"
+            ],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 14,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 15,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 16,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 17,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 18,
+            "text_file": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.png",
+            "images": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        }
+    ],
+    "high_res_chunk_images": [
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_1.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_2.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_3.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_4.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_5.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_6.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_7.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_8.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_9.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_10.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_11.png",
+        "../indexer_test\\wile_e_coyote.pdf\\chunk_images\\chunk_12.png"
+    ],
+    "full_text": "<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\n\n# Investment Proposal for Gru's Enterprises\n\nACME Enterprises: Strategic Partnership for Ingenious Solutions\n\n\n<figure>\n\nACME\nENERPARISES\n\n1995\n\nOITIVEPITTIVE\nATEL\n\n</figure>\n\n\nAddress:\nCanyon Bluff, The Desert, TX 78910\n\nContact Information:\n\n\u00b7 Phone: 555-ACME (555-2263)\n\n\u00b7 Email: coyote@acmeenterprises.com\n\n\u00b7 Website: www.acmeenterprises.com\n\nPrepared by:\n\nWile E. Coyote, CEO of ACME Enterprises\n\nDate of Preparation:\n\nJanuary 6, 2024\n\nConfidential and Proprietary Information\n\nThis document contains confidential and proprietary information of ACME Enterprises. It is intended solely for\nthe use of the individual or entity to which it is addressed. Unauthorized use, dissemination, distribution, or\ncopying of this document is strictly prohibited.\n\n<!-- PageNumber=\"1 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n<!-- PageHeader=\"Table of Contents\" -->\n\n\n## 1. Introduction\n\no Background of Wile E. Coyote\n\no Overview of the Proposal\n\n\n## 2. Analysis of Gru's Enterprises\n\no Overview of Gru's Business Document\n\no Key Financial Highlights from Gru's Report\n\u2610\n\no Potential Synergies with Coyote's Objectives\n\u2610\n\n\n## 3. Investment Proposal\n\no Proposal to Acquire 40% Stake\n\no Valuation of Gru's Enterprises\n\u2610\n\no Proposed Investment Amount\n\u2610\n\n\n## 4. Financial Projections and Analysis\n\no Revenue Forecast for Next Fiscal Year\n\no Projected Impact of Coyote's Investment\n\no Analysis of Potential Return on Investment\n\u2610\n\n\n## 5. Coyote's Projects for Catching the Road Runner\n\no Overview of Past Attempts\n\no Proposed Future Strategies\n\no Expected Benefits from Gru's Weapons\n\u2610\n\n\n## 6. Infographics and Visual Representations\n\no Design of a New Innovative Weapon by Coyote\n\no Road Runner's Muscle System Analysis\n\u2610\n\n\n## 7. Graphical Analysis\n\no Hierarchy of Weapons in Coyote's Arsenal\n\n\u00b7 Categories of Past Failed Weapons\n\u2610\n\n\n## 8. Images\n\no Coyote Chasing Road Runner\n\no Coyote Setting Up a Trap\n\no Coyote Trying a New Weapon from Gru\n\n\n## 9. Conclusion and Call to Action\n\no Summary of the Proposal\n\no Next Steps and Contact Information\n\n<!-- PageNumber=\"2 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\n\n# 1. Introduction\n\n\n## Background of Wile E. Coyote\n\nWile E. Coyote, the CEO of ACME Enterprises, is known for his relentless pursuit of innovation and creativity,\nparticularly in devising complex strategies to catch the Road Runner. ACME Enterprises has a long history of\ndesigning and manufacturing imaginative gadgets and contraptions, aligning perfectly with Coyote's inventive\nspirit.\n\n\n## Overview of the Proposal\n\nThis proposal aims to establish a strategic partnership with Gru's Enterprises, leveraging ACME's expertise in\nimaginative solutions and Gru's proficiency in manufacturing cartoonish weaponry. The collaboration seeks to\nenhance both companies' product offerings and market reach.\n\n\n# 2. Analysis of Gru's Enterprises\n\n\n## Overview of Gru's Business Document\n\nGru's Enterprises has presented a comprehensive business document, detailing their operations in designing\nand manufacturing unique \"evil\" weapons. The document covers financials, operational strategies, and market\nanalysis, demonstrating the company's potential for growth and innovation.\n\n\n## Key Financial Highlights from Gru's Report\n\nGru's business, while currently barely breaking even, shows significant potential for growth. The financial\nanalysis reveals a well-managed operation with a diverse product range and a strong market presence.\n\n\n## Potential Synergies with Coyote's Objectives\n\nThe partnership with Gru's Enterprises aligns perfectly with Coyote's goal of catching the Road Runner. Gru's\ninnovative weaponry could provide Coyote with the edge he needs, combining ACME's ingenuity with Gru's\ntechnical expertise.\n\n<!-- PageNumber=\"3 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\n\n# 3. Investment Proposal\n\n\n## Proposal to Acquire 40% Stake\n\nWile E. Coyote proposes to acquire a 40% stake in Gru's Enterprises. This strategic investment aims to infuse\ncapital into Gru's business, facilitating expansion and product development.\n\n\n## Valuation of Gru's Enterprises\n\nBased on the financials provided, the total valuation of Gru's Enterprises is calculated to be $5 million. This\nvaluation takes into account the company's assets, revenue streams, and market potential.\n\n\n## Proposed Investment Amount\n\nTo acquire a 40% stake in Gru's Enterprises, ACME Enterprises proposes an investment of $2 million. This\ninvestment will be utilized to boost R&D, enhance marketing efforts, and expand operational capacity.\n\n\n## 4. Financial Projections and Analysis\n\n\n### Revenue Forecast for Next Fiscal Year\n\nACME Enterprises projects a significant increase in revenue for Gru's Enterprises post-investment. With the\nproposed $2 million investment, we anticipate:\n\n\u00b7 Year 1 Revenue: $5.5 million (30% increase)\n\n\u00b7 Year 2 Revenue: $6.5 million (40% cumulative increase)\n\n\u00b7 Year 3 Revenue: $7.5 million (50% cumulative increase)\n\n\n<table>\n<tr>\n<th>Year</th>\n<th>Projected Revenue (USD)</th>\n<th>Projected Profit (USD)</th>\n<th>ROI (%)</th>\n</tr>\n<tr>\n<td>2024</td>\n<td>$5,500,000</td>\n<td>$825,000</td>\n<td>12.5</td>\n</tr>\n<tr>\n<td>2025</td>\n<td>$6,500,000</td>\n<td>$1,300,000</td>\n<td>20</td>\n</tr>\n<tr>\n<td>2026</td>\n<td>$7,500,000</td>\n<td>$1,875,000</td>\n<td>35</td>\n</tr>\n</table>\n\n\n### Chart of Year 1 Financial Projection:\n\n<!-- PageNumber=\"4 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\n\n<figure>\n\nYear 2024 Forecast\n\n$600,000\n\n$500,000\n\n$400,000\n\n$300,000\n\n$200,000\n\n$100,000\n\n$0\n\nJan\n\nFeb\n\nMar\n\nApr\n\nMay\n\nJun\n\nJul\n\nAug\n\nSep\n\nOct\n\nNov\n\nDec\n\nRevenues\n\nProfits\n\nCosts\n\n</figure>\n\n\n### Projected Impact of Coyote's Investment\n\nThe infusion of capital will be allocated to:\n\n\u00b7 Expanding R&D for new product lines\n\n\u00b7 Enhancing marketing strategies\n\n\u00b7 Streamlining manufacturing processes\n\nThis investment is expected to boost efficiency, market reach, and overall profitability.\n\n\n### Analysis of Potential Return on Investment\n\n\u00b7 Return on Investment (ROI) after 3 Years: 35%\n\n\u00b7 Break-even Point: End of Year 2\n\n\u00b7 Long-term Financial Benefits: Increased market share and diversified product portfolio\n\n\n## 5. Coyote's Projects for Catching the Road Runner\n\n\n### Overview of Past Attempts\n\nA comprehensive review of past attempts to catch the Road Runner, highlighting the lessons learned and\ninsights gained, which will inform future strategies.\n\n\n### Proposed Future Strategies\n\n\u00b7 Utilization of Gru's advanced weaponry\n\n. Implementation of strategic plans leveraging the combined expertise of ACME and Gru's Enterprises\n\n\u00b7 Experimental approaches with a focus on innovation and creativity\n\n\n### Expected Benefits from Gru's Weapons\n\n<!-- PageNumber=\"5 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\u00b7 Enhanced efficiency and effectiveness in Coyote's pursuits\n\n\u00b7 Increased probability of success in capturing the Road Runner\n\n\u00b7 Opportunity to test and refine new products in real-world scenarios\n\n\n## 6. Infographics and Visual Representations\n\n\n### Design of a New Innovative Weapon by Coyote\n\nAn infographic showcasing a conceptual design of a cutting-edge weapon, combining Coyote's innovative\nideas with Gru's manufacturing capabilities. This weapon is specifically tailored for the pursuit of the Road\nRunner.\n\n\n<figure>\n<figcaption>Road Runner's Muscle System Analysis</figcaption>\n\nNEW INNOVATIVE WEAAPMON\n\nACME CYYOTE\n\nWILLE E. COYOTE\n\nWHE AMOROR B ROYAT C ODOVEBE\n\nCAN WECITTIVG WEAPUE\nERENMOOVHE WON THEE SMOHARIAS\nSIRGER DIG BATFINN GHBSCEE. TS FOLYC\nWW SHG RNE UNINCEIMNEHE ..\nCHINIVCTIHING DIE LACLAAIE\n\nAE\nMANNACTIING\nUNGCELVONITE ON!PY IEFHINEE\nB'EDO AMBAFGEIVTS WIDE\nVED NEA UDNIRAT\n\nS6H\n\nVIERT ORE ORT I LAINSHER\n\nWIITT WINEL NILANEGOS\nTHE GREENINCE AGETIR\nWILEL EDE NUEBBS!\n\nANONLO RHJUDE.\nDIT OMWHOHDMISR\nTREAOBO SUUIT ..\n\nHB\nWIR\nJE\n\nFSTOVIING\n\nAUTOMATED NETT\n\nTRACKIING SYTEM\n\nENIERGY-IPPFICTIENTT\nLHECCCE. EIORE BIERORHILBGT\nTHE COTO DOKRIGCY FIOLICH\n\nTISE COCAROE CRE\nCATATD\n\n\\-\n\n----\nLIANDER. INIRMAG'S CORMIER MIGIAI SOON\nMA WICOINDDIL NABE DUCAURL FORHREF\nTHIS NOARSILES COQUET NONCAM\n\nDOICKAET REAEG SATTE MIFIEID SHGORDIHE SGE\nGITARRIIKIDISS UI MEFLIBING ROUIRDEMMI\nSRIRUY GIRETANAINIEG FFICIPEE SEEVAFERDEHIS.\nCUMTWEE CREMENTAVOFLAUM NEE ..\n\nAMHIDAICEAISIB HHIN MARSIC TIRE\nAAHARIOS.BINH TOUILLECHOPFE.\nFHET RSIICB DOMERBEAUBNPWIS\nMGRNI.SI PIHEMER CIPUHALE SETOS\"\nAM NIVEIENCKIEN CHO ATVRHTHELINHINE FUE\nNUERIF CAGEBFTITINE, WANE INSPIRRE CHIAFHELE\nWHELE GBE, CHOKROONB THEWIDENILABY BIU THIRE\n\n2\n\nBURCH-et\n\nE\n\nPIE EOBPORE OFTEN GRTHE AZENHAME\n\n</figure>\n\n\n<!-- PageNumber=\"6 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\nAn in-depth infographic analysis of the Road Runner's muscle system, providing insights into its incredible\nspeed and agility. This analysis will inform the design of targeted gadgets and strategies.\n\n\n<figure>\n\nAVUDRANCYEST\n\nMUSCLE SYSTEM\n\nyanul\n\nVhue stoytocph\naingwow\nSVI105.\n\nThat mous mecd s musecster\n\n2\n\nMFE SAVBAS\n\nRAC@MATER\ncante pock Olog ettelone\n\nNaustiet aleoldker\nmngiorad ehagiai.\n\nEAOPIXS\n\nFAST-RIFEBB\nsa-teses strioildirgi Branfies\n\nCOMTT YEGOE\n\nMshit :Hepati ston\nInigar Avercill areul\nborre aritattiogs ...\n\nFAST BYTU SPEE\n#synes in lerenth noomte-dogranls\n\nFAST-11TCH\naring nnerce ungins hier\nadcattns mep intiam.\n\nMASCLE MOSLEES\ntisipalios giashimg cor gudliss\n\nRord mitmacliy\nof the oartix\ndhjolarsass.\n\nMacoibgeabot.\ntoun aroep\u00f4s\n\nGOTQAYIGAGLS\n\nFAST MUSCLE FIBBERS\n\nnlow lakoy sedat osntoali kmen'iou gilirk\nautle rhaits ompotprnadle\n\nEILLAS TEP\nMUSCLEES IDEER\nRanenonkla besyreny\n\nFlavdiing mtlort\nver emiple\n\nENEOY EFFEICIENCY\nEnniysusn.tur dartcowe suiiraticor.\nmonng toudls off gangeoching styr.\n\n2\\. Pourggehin aniogne iulseStols\n\nOHIEI\n\nTEIEA\n\n</figure>\n\n\n<!-- PageNumber=\"7 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\n\n# 7. Graphical Analysis\n\n\n## Hierarchy of Weapons in Coyote's Arsenal\n\nA comprehensive chart detailing the various gadgets and weapons currently in Coyote's arsenal, ranked by\neffectiveness, complexity, and success rate. This analysis helps in identifying gaps and opportunities for\nincorporating Gru's weaponry.\n\n\n<table>\n<tr>\n<th>Weapon</th>\n<th>Effectiveness</th>\n<th>Complexity</th>\n<th>Success Rate</th>\n</tr>\n<tr>\n<td>Giant Catapult</td>\n<td>High</td>\n<td>Medium</td>\n<td>Low</td>\n</tr>\n<tr>\n<td>Rocket Skates</td>\n<td>Medium</td>\n<td>High</td>\n<td>Very Low</td>\n</tr>\n<tr>\n<td>ACME Birdseed Trap</td>\n<td>Low</td>\n<td>Low</td>\n<td>Low</td>\n</tr>\n<tr>\n<td>Disguise Kit</td>\n<td>Low</td>\n<td>Low</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>ACME Portable Hole</td>\n<td>High</td>\n<td>High</td>\n<td>Low</td>\n</tr>\n</table>\n\n\n## Categories of Past Failed Weapons\n\nA categorized chart analyzing past weapon failures, focusing on the reasons for their ineffectiveness. This\ncritical evaluation will aid in avoiding past mistakes and improving future designs with Gru's expertise.\n\n\n<table>\n<tr>\n<th>Category</th>\n<th>Number of Attempts</th>\n<th>Primary Cause of Failure</th>\n</tr>\n<tr>\n<td>Explosives</td>\n<td>15</td>\n<td>Miscalculation</td>\n</tr>\n<tr>\n<td>Mechanical Traps</td>\n<td>20</td>\n<td>Malfunction</td>\n</tr>\n<tr>\n<td>Disguises</td>\n<td>10</td>\n<td>Recognition by Road Runner</td>\n</tr>\n<tr>\n<td>Direct Pursuit Methods</td>\n<td>25</td>\n<td>Speed Differential</td>\n</tr>\n</table>\n\n\n### 8. Past Experiences\n\n\n#### Coyote Chasing Road Runner\n\nAn image capturing the classic chase, with Coyote utilizing one of Gru's innovative weapons in pursuit of the\nRoad Runner, showcasing the potential effectiveness of the collaboration.\n\n<!-- PageNumber=\"8 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n<figure>\n</figure>\n\n\n## Coyote Setting Up a Trap\n\nA depiction of Coyote setting up a complex trap using a combination of ACME and Gru's technology,\nhighlighting the creative and strategic approach to capturing the Road Runner.\n\n<!-- PageNumber=\"9 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n<figure>\n\nACHE\n\n</figure>\n\n\n## Coyote Trying a New Weapon from Gru\n\nAn illustration of Coyote testing a new, advanced weapon designed by Gru, demonstrating the practical\napplication and potential of this partnership in achieving Coyote's goal.\n\n<!-- PageNumber=\"10 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n<figure>\n\nPAYB\n\nCONE C\n\n</figure>\n\n\n<!-- PageNumber=\"11 / 12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"wile_e_coyote.md\" -->\n\n\n# 9. Conclusion and Call to Action\n\n\n## Summary of the Proposal\n\nThis proposal outlines a strategic partnership between ACME Enterprises and Gru's Enterprises, leveraging\nstrengths from both entities. The investment and collaboration promise to enhance product capabilities, boost\nfinancial returns, and finally achieve the elusive goal of catching the Road Runner.\n\n\n## Next Steps and Contact Information\n\n. Next Steps: Further discussions to finalize investment details and partnership terms.\n\n. Contact Information: Wile E. Coyote, CEO of ACME Enterprises; contact details as provided on the\ncover page.\n\n<!-- PageNumber=\"12 / 12\" -->\n",
+    "table_images": [],
+    "image_proc_files": [
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.py"
+            ],
+            "image_codeblock": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.codeblock"
+            ],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.txt"
+            ],
+            "image_markdown": []
+        }
+    ],
+    "tags_files": [
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_1.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_2.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_3.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_4.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_5.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_6.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_7.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_8.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_9.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\text\\chunk_10.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_1_image_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_5_image_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_6_image_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_7_image_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_9_image_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_10_image_0.tags.txt",
+        "../indexer_test\\wile_e_coyote.pdf\\images\\chunk_11_image_0.tags.txt"
+    ]
+}

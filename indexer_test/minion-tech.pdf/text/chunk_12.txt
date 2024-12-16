@@ -1,0 +1,23 @@
+<figure>
+
+☒
+Idea Generation
+
+R&D
+
+Prototyping
+
+☒
+Manufacturing
+
+☒
+Quality Testing
+
+Marketing
+
+Sales
+
+</figure>
+
+
+<!-- PageNumber="22 / 22" -->

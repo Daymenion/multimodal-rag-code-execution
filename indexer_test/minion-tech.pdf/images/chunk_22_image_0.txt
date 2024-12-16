@@ -1,0 +1,45 @@
+### Image Description
+
+The image is a flowchart that outlines the stages of a product development process. The flowchart is vertically oriented and consists of seven stages, each represented by an oval shape connected by arrows pointing downward, indicating the sequence of steps.
+
+### Objects in the Image
+
+1. **Idea Generation**: The first stage at the top of the flowchart. It is enclosed in an oval shape.
+2. **R&D**: The second stage, representing Research and Development. It is also enclosed in an oval shape and is connected to the "Idea Generation" stage by a downward arrow.
+3. **Prototyping**: The third stage, representing the creation of prototypes. It is connected to the "R&D" stage by a downward arrow.
+4. **Manufacturing**: The fourth stage, representing the production phase. It is connected to the "Prototyping" stage by a downward arrow.
+5. **Quality Testing**: The fifth stage, representing the quality assurance phase. It is connected to the "Manufacturing" stage by a downward arrow.
+6. **Marketing**: The sixth stage, representing the marketing phase. It is connected to the "Quality Testing" stage by a downward arrow.
+7. **Sales**: The final stage at the bottom of the flowchart, representing the sales phase. It is connected to the "Marketing" stage by a downward arrow.
+
+### Information Conveyed
+
+1. **What information does this image convey?**
+   - The image conveys the sequential stages involved in the product development process, from the initial idea generation to the final sales stage.
+
+2. **Given the below text context (Previous Chunk, Current Chunk, Next Chunk), how does this image add to the information?**
+   - The image visually represents the stages of product development, which can complement textual descriptions by providing a clear and concise overview of the process. It helps in understanding the flow and the relationship between different stages.
+
+3. **If this image is an organization chart, a flowchart, a process chart, or any chart that conveys relationships and progress in timeline or execution, please generate the text description of this chart as accurately as possible, as well as generate the Mermaid code to capture the full information in the chart.**
+   - **Text Description**: The flowchart outlines the stages of product development, starting from Idea Generation, followed by R&D, Prototyping, Manufacturing, Quality Testing, Marketing, and ending with Sales. Each stage is connected by arrows indicating the sequence of steps.
+   - **Mermaid Code**:
+     ```mermaid
+     graph TD
+         A[Idea Generation] --> B[R&D]
+         B[R&D] --> C[Prototyping]
+         C[Prototyping] --> D[Manufacturing]
+         D[Manufacturing] --> E[Quality Testing]
+         E[Quality Testing] --> F[Marketing]
+         F[Marketing] --> G[Sales]
+     ```
+
+### Extracted Text
+
+
+
+**Extracted Text:**
+## START OF EXTRACTED TEXT
+
+| Idea Generation | R&D | Prototyping | Manufacturing | Quality Testing | Marketing | Sales |
+
+## END OF EXTRACTED TEXT

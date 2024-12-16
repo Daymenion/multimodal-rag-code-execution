@@ -1,0 +1,87 @@
+Cash Flow Statement
+
+o Outlines the cash inflows and outflows over the fiscal year.
+☐
+
+
+#### Cash Flow Statement
+
+
+<table>
+<tr>
+<th>Description</th>
+<th>Amount (USD)</th>
+</tr>
+<tr>
+<td>Operating Activities</td>
+<td></td>
+</tr>
+<tr>
+<td>Net Income</td>
+<td>$84,000</td>
+</tr>
+<tr>
+<td>Adjustments to Reconcile Net Income</td>
+<td></td>
+</tr>
+<tr>
+<td>Depreciation</td>
+<td>$50,000</td>
+</tr>
+<tr>
+<td>Changes in Working Capital</td>
+<td>$-100,000</td>
+</tr>
+<tr>
+<td>Net Cash from Operating Activities</td>
+<td>$34,000</td>
+</tr>
+<tr>
+<td>Investing Activities</td>
+<td></td>
+</tr>
+<tr>
+<td>Capital Expenditures</td>
+<td>$-200,000</td>
+</tr>
+<tr>
+<td>Net Cash from Investing Activities</td>
+<td>$-200,000</td>
+</tr>
+<tr>
+<td>Financing Activities</td>
+<td></td>
+</tr>
+<tr>
+<td>Long-term Debt Financing</td>
+<td>$1,700,000</td>
+</tr>
+<tr>
+<td>Net Cash from Financing Activities</td>
+<td>$1,700,000</td>
+</tr>
+<tr>
+<td>Net Increase in Cash</td>
+<td>$1,534,000</td>
+</tr>
+<tr>
+<td>Cash at Beginning of Period</td>
+<td>$-1,034,000</td>
+</tr>
+<tr>
+<td>Cash at End of Period</td>
+<td>$500,000</td>
+</tr>
+</table>
+
+
+<!-- PageNumber="16 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="2024-01-06" -->
+<!-- PageHeader="minion-tech.md" -->
+
+
+### 3. Profit and Loss Statement
+
+o Outlines the profit and loss over the fiscal year.

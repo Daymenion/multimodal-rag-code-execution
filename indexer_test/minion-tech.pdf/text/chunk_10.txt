@@ -1,0 +1,112 @@
+R&D Costs: Breakdown of annual research and development expenses.
+
+. Best-selling Products Analysis: Costs, sales, profits, and margins of our top products.
+
+. Top Clients and Purchases: List of major clients and their purchase volumes.
+
+· Geographical Distribution of Product Use: Sales data by region and country.
+
+
+## R&D Costs Chart
+
+
+<figure>
+
+R&D Expenditure (USD)
+
+$620,000
+
+$600,000
+
+$580,000
+
+$560,000
+
+$540,000
+
+$520,000
+
+$500,000
+
+$480,000
+
+$460,000
+
+$440,000
+
+2021
+
+2022
+
+2023
+
+</figure>
+
+
+<!-- PageNumber="18 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="2024-01-06" -->
+<!-- PageHeader="minion-tech.md" -->
+
+
+# Best-selling Products Analysis
+
+
+<table>
+<tr>
+<th>Product</th>
+<th>Cost (USD)</th>
+<th>Sales (USD)</th>
+<th>Profit (USD)</th>
+<th>Gross Margin (%)</th>
+<th>Net Margin (%)</th>
+</tr>
+<tr>
+<td>Freeze Ray</td>
+<td>$100,000</td>
+<td>$500,000</td>
+<td>$150,000</td>
+<td>70%</td>
+<td>30%</td>
+</tr>
+<tr>
+<td>Rocket Boots</td>
+<td>$150,000</td>
+<td>$450,000</td>
+<td>$120,000</td>
+<td>60%</td>
+<td>26.7%</td>
+</tr>
+<tr>
+<td>Bubble Gun</td>
+<td>$80,000</td>
+<td>$300,000</td>
+<td>$100,000</td>
+<td>66.7%</td>
+<td>33.3%</td>
+</tr>
+</table>
+
+
+<!-- PageNumber="19 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="2024-01-06" -->
+<!-- PageHeader="minion-tech.md" -->
+
+
+## Top Clients and Purchases
+
+
+<figure>
+
+Purchases (USD)
+
+20%
+
+50%
+
+30%
+
+Acme Corp.

@@ -1,0 +1,105 @@
+Profit and Loss Statement
+
+o Outlines the profit and loss over the fiscal year.
+☐
+
+
+<table>
+<caption>Profit and Loss Statement for the Year 2023</caption>
+<tr>
+<th>Description</th>
+<th>Amount (USD)</th>
+</tr>
+<tr>
+<td>Revenue</td>
+<td></td>
+</tr>
+<tr>
+<td>Product Sales</td>
+<td>$4,200,000</td>
+</tr>
+<tr>
+<td>Total Revenue</td>
+<td>$4,200,000</td>
+</tr>
+<tr>
+<td>Cost of Goods Sold (COGS)</td>
+<td></td>
+</tr>
+<tr>
+<td>Material Costs</td>
+<td>$1,200,000</td>
+</tr>
+<tr>
+<td>Labor (Manufacturing)</td>
+<td>$1,000,000</td>
+</tr>
+<tr>
+<td>Total COGS</td>
+<td>$2,200,000</td>
+</tr>
+<tr>
+<td>Gross Profit</td>
+<td>$2,000,000</td>
+</tr>
+<tr>
+<td>Operating Expenses</td>
+<td></td>
+</tr>
+<tr>
+<td>R&amp;D</td>
+<td>$600,000</td>
+</tr>
+<tr>
+<td>Marketing</td>
+<td>$300,000</td>
+</tr>
+<tr>
+<td>General and Administrative</td>
+<td>$900,000</td>
+</tr>
+<tr>
+<td>Total Operating Expenses</td>
+<td>$1,800,000</td>
+</tr>
+<tr>
+<td>Operating Income</td>
+<td>$200,000</td>
+</tr>
+<tr>
+<td>Other Expenses</td>
+<td></td>
+</tr>
+<tr>
+<td>Interest Expense</td>
+<td>$100,000</td>
+</tr>
+<tr>
+<td>Total Other Expenses</td>
+<td>$100,000</td>
+</tr>
+<tr>
+<td>Net Income Before Taxes</td>
+<td>$100,000</td>
+</tr>
+<tr>
+<td>Taxes (20%)</td>
+<td>$20,000</td>
+</tr>
+<tr>
+<td>Net Income</td>
+<td>$80,000</td>
+</tr>
+</table>
+
+
+<!-- PageNumber="17 / 22" -->
+<!-- PageBreak -->
+
+<!-- PageHeader="minion-tech.md" -->
+<!-- PageHeader="2024-01-06" -->
+
+
+# Tables
+
+.

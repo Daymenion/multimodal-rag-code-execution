@@ -1,0 +1,1 @@
+R&D Expenditure,USD,bar chart,2021,2022,2023,financial data,company investments,quantitative data,trend,growing investment,Research and Development,expenditure amounts,$440,000,$620,000,$500,000,$580,000,$600,000

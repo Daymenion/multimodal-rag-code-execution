@@ -1,0 +1,86 @@
+Graphical Analysis
+
+
+## Hierarchy of Weapons in Coyote's Arsenal
+
+A comprehensive chart detailing the various gadgets and weapons currently in Coyote's arsenal, ranked by
+effectiveness, complexity, and success rate. This analysis helps in identifying gaps and opportunities for
+incorporating Gru's weaponry.
+
+
+<table>
+<tr>
+<th>Weapon</th>
+<th>Effectiveness</th>
+<th>Complexity</th>
+<th>Success Rate</th>
+</tr>
+<tr>
+<td>Giant Catapult</td>
+<td>High</td>
+<td>Medium</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Rocket Skates</td>
+<td>Medium</td>
+<td>High</td>
+<td>Very Low</td>
+</tr>
+<tr>
+<td>ACME Birdseed Trap</td>
+<td>Low</td>
+<td>Low</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Disguise Kit</td>
+<td>Low</td>
+<td>Low</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>ACME Portable Hole</td>
+<td>High</td>
+<td>High</td>
+<td>Low</td>
+</tr>
+</table>
+
+
+## Categories of Past Failed Weapons
+
+A categorized chart analyzing past weapon failures, focusing on the reasons for their ineffectiveness. This
+critical evaluation will aid in avoiding past mistakes and improving future designs with Gru's expertise.
+
+
+<table>
+<tr>
+<th>Category</th>
+<th>Number of Attempts</th>
+<th>Primary Cause of Failure</th>
+</tr>
+<tr>
+<td>Explosives</td>
+<td>15</td>
+<td>Miscalculation</td>
+</tr>
+<tr>
+<td>Mechanical Traps</td>
+<td>20</td>
+<td>Malfunction</td>
+</tr>
+<tr>
+<td>Disguises</td>
+<td>10</td>
+<td>Recognition by Road Runner</td>
+</tr>
+<tr>
+<td>Direct Pursuit Methods</td>
+<td>25</td>
+<td>Speed Differential</td>
+</tr>
+</table>
+
+
+### 8.

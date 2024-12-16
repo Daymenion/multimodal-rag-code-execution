@@ -1,0 +1,691 @@
+{
+    "document_id": "2044317f-80ac-f5d1-f435-7f1279c96fd6",
+    "original_document_path": "sample_data\\minion-tech.pdf",
+    "original_document_filename": "minion-tech.pdf",
+    "original_document_extension": ".pdf",
+    "index_name": "indexer_test",
+    "document_processing_directory": "../indexer_test\\minion-tech.pdf",
+    "document_ingestion_directory": "../indexer_test",
+    "document_downloads_directory": "../indexer_test\\downloads",
+    "ingestion_directory": "../indexer_test",
+    "download_directory": "../indexer_test\\downloads",
+    "document_path": "../indexer_test\\minion-tech.pdf\\minion-tech.pdf",
+    "master_py_file": "../indexer_test\\minion-tech.pdf\\minion-tech.py",
+    "full_text_file": "../indexer_test\\minion-tech.pdf\\minion-tech.txt",
+    "image_files": [
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.png",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.png"
+    ],
+    "tables_py": [],
+    "tables_md": [],
+    "table_files": [],
+    "text_files": [
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_0.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_1.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_2.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_3.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_4.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_5.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_6.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_7.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_8.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_9.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_10.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_11.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_12.txt"
+    ],
+    "image_text_files": [
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.txt"
+    ],
+    "table_text_files": [],
+    "py_files": [
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.py",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.py"
+    ],
+    "codeblock_files": [
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.codeblock",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.codeblock"
+    ],
+    "markdown_files": [],
+    "mermaid_files": [
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.mermaid",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.mermaid",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.mermaid"
+    ],
+    "basename": "minion-tech",
+    "extension": ".pdf",
+    "extract_text_mode": "PDF",
+    "extract_images_mode": "PDF",
+    "extract_text_from_images": true,
+    "chunks_as_images_directory": "../indexer_test\\minion-tech.pdf\\chunk_images",
+    "images_directory": "../indexer_test\\minion-tech.pdf\\images",
+    "text_directory": "../indexer_test\\minion-tech.pdf\\text",
+    "tables_directory": "../indexer_test\\minion-tech.pdf\\tables",
+    "chunk_size": 512,
+    "chunk_overlap": 128,
+    "delete_existing_output_dir": true,
+    "processing_mode_pdf": "hybrid",
+    "doc_path": "sample_data\\minion-tech.pdf",
+    "processing_mode": "hybrid",
+    "num_chunks": 22,
+    "document_file_path": "../indexer_test\\minion-tech.pdf\\minion-tech.pdf",
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_0.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_0.tags.txt"
+        },
+        {
+            "chunk_number": 2,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_1.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_1.tags.txt"
+        },
+        {
+            "chunk_number": 3,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_2.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_2.tags.txt"
+        },
+        {
+            "chunk_number": 4,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_3.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_3.tags.txt"
+        },
+        {
+            "chunk_number": 5,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_4.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_4.tags.txt"
+        },
+        {
+            "chunk_number": 6,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_5.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_5.tags.txt"
+        },
+        {
+            "chunk_number": 7,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_6.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_6.tags.txt"
+        },
+        {
+            "chunk_number": 8,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_7.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_7.tags.txt"
+        },
+        {
+            "chunk_number": 9,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_8.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_8.tags.txt"
+        },
+        {
+            "chunk_number": 10,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_9.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_9.tags.txt"
+        },
+        {
+            "chunk_number": 11,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_10.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_10.tags.txt"
+        },
+        {
+            "chunk_number": 12,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_11.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_11.tags.txt"
+        },
+        {
+            "chunk_number": 13,
+            "text_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_12.txt",
+            "full_chunk_text": "",
+            "images": [],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "type": "text",
+            "tags_file": "../indexer_test\\minion-tech.pdf\\text\\chunk_12.tags.txt"
+        },
+        {
+            "chunk_number": 14,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 15,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.mermaid"
+            ],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 16,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 17,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 18,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 19,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.py"
+            ],
+            "image_codeblock": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.codeblock"
+            ],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 20,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.py"
+            ],
+            "image_codeblock": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.codeblock"
+            ],
+            "image_markdown": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 21,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.mermaid"
+            ],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        },
+        {
+            "chunk_number": 22,
+            "text_file": "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.txt",
+            "full_chunk_text": "",
+            "chunk_image_path": "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.png",
+            "images": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.png"
+            ],
+            "tables": [],
+            "image_py": [],
+            "image_codeblock": [],
+            "image_markdown": [],
+            "image_mm": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.mermaid"
+            ],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.txt"
+            ],
+            "table_text": [],
+            "table_py": [],
+            "table_codeblock": [],
+            "table_markdown": [],
+            "post_process_image_with_context": false,
+            "type": "image"
+        }
+    ],
+    "high_res_chunk_images": [
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_1.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_2.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_3.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_4.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_5.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_6.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_7.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_8.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_9.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_10.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_11.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_12.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_13.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_14.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_15.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_16.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_17.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_18.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_19.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_20.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_21.png",
+        "../indexer_test\\minion-tech.pdf\\chunk_images\\chunk_22.png"
+    ],
+    "full_text": "<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# Business Analysis Document\n\nGru's Enterprises: Innovation in Cartoonish \"Evil\" Weaponry\n\n\n<figure>\n\nGRUI'S\nENTERPIIRSES\n\n</figure>\n\n\nAddress:\n\n123 Villain Street, Villainville, EV123\n\nContact Information:\n\n\u00b7 Phone: 123-456-7890\n\n\u00b7 Email: contact@grusenterprises.com\n\n\u00b7 Website: www.grusenterprises.com\n\nPrepared by:\n\nGru's Enterprises Financial Analysis Team\n\nDate of Preparation:\n\nJanuary 6, 2024\n\n\n## Confidential and Proprietary Information\n\nThis document contains confidential and proprietary information of Gru's Enterprises. It is intended solely for\nthe use of the individual or entity to which it is addressed. If you are not the intended recipient, you are\nhereby notified that any use, dissemination, distribution, or copying of this document is strictly prohibited.\n\n<!-- PageNumber=\"1 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"Table of Contents\" -->\n\n\n### 1. Executive Summary\n\no Overview of Gru's Business Model\n\u2610\n\no Key Financial Highlights\n\u2610\n\n\n#### 2. Company Overview\n\no History and Background\n\u2610\n\no Mission and Vision\n\u2610\n\n\u00b7 Organizational Structure\n\u2610\n\n\n#### 3. Product Portfolio\n\no Description of Key Products\n\u2610\n\no Innovation and R&D\n\u2610\n\n\n#### 4. Market Analysis\n\n\u00b7 Target Market and Clientele\n\u2610\n\no Competitive Landscape\n\u2610\n\n\n#### 5. Financial Analysis\n\no Revenue Streams\n\u2610\n\no Cost Analysis\n\u2610\n\no Profitability Analysis\n\u2610\n\n\n##### 6. Operational Overview\n\no Manufacturing Process\n\u2610\n\n\u00b7 Supply Chain Management\n\u2610\n\n\n##### 7. Human Resources\n\no Staffing and Roles\n\u2610\n\no Compensation and Benefits\n\u2610\n\n\n##### 8. Strategic Challenges and Opportunities\n\n\u00b7 Market Risks\n\u2610\n\no Future Growth Opportunities\n\u2610\n\n\n##### 9. Investment Appeal\n\no Investment Needs\n\u2610\n\no Return on Investment Projections\n\u2610\n\n\n##### 10. Appendices\n\no Financial Statements\n\u2610\n\nBalance Sheet\n\n<!-- PageNumber=\"2/ 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\nCash Flow Statement\n\no Tables\n\nR&D Costs\n\nBest-selling Products Analysis\n\nTop Clients and Purchases\n\nGeographical Distribution of Product Use\n\no Infographics and Diagrams\n\n\u00b7 Organizational Chart\n\nProcess Flow Diagrams\n\n\u00b7 Images\n\n\u00b7 R&D Lab\n\nCompany Group Photo\n\nClose-ups of Cartoon Weapons\n\n<!-- PageNumber=\"3 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n# 1. Executive Summary\n\n\n## Overview of Gru's Business Model\n\nGru's Enterprises, a novel venture in the world of light-hearted villainy, specializes in the design and\nmanufacture of unique, cartoonish \"evil\" weapons. These products, appealing to a niche market of enthusiasts,\nare crafted with a touch of humor and imagination. Our product range, from freeze rays to rocket boots,\ncombines innovation with practical jokes, providing an unparalleled experience in the realm of fantasy\nweaponry.\n\n\n## Key Financial Highlights\n\n\u00b7 Total Revenue (2023): $4.2 million\n\n\u00b7 Gross Profit Margin: 40%\n\n\u00b7 Net Profit Margin: 2%\n\n\u00b7 Total Operating Expenses: $3.8 million\n\n\u00b7 EBITDA: $300,000\n\n\u00b7 Current Assets: $2.5 million\n\n\u00b7 Long-term Liabilities: $1.7 million\n\n<!-- PageNumber=\"4 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 2. Company Overview\n\n\n## History and Background\n\nFounded by the infamous yet endearing supervillain Gru, our company began as a small workshop in a\nsuburban basement. It has since grown into a significant player in the fantastical weaponry market. The\njourney from crafting simple gadgets to sophisticated, laughter-inducing weapons is a testament to our\ndedication and creativity.\n\n\n## Mission and Vision\n\nOur mission is to provide a touch of mischievous joy through our unique products. We envision a world where\nhumor and imagination are integral to everyday life, and we strive to be at the forefront of this whimsical\nrevolution.\n\n\n## Organizational Structure\n\n\n<figure>\n\nFelonius Gru\nCEO\n\nDr. Nefario\nLead Scientist\n\nKevin\nHead of Operations\n\nStuart\nChief Financial Officer\n\nDirects\n\nManages\n\nOversees\n\nR&D Team\n50 Minions\n\nManufacturing Team\n75 Minions\n\nSales and Marketing\n30 Minions\n\n</figure>\n\n\n<!-- PageNumber=\"5 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 3. Product Portfolio\n\n\n## Description of Key Products\n\nGru's Enterprises boasts a diverse range of cartoonish \"evil\" weapons, each with its unique flair and\nmischievous functionality. Our top products include:\n\n1\\. Freeze Ray: A popular item, especially in pranks and mock battles. Features adjustable settings for\ndifferent freeze durations.\n\n2\\. Rocket Boots: Equipped with multi-directional propulsion, these boots are a hit among adventure\nenthusiasts.\n\n3\\. Bubble Gun: Emits oversized, shimmering bubbles, perfect for light-hearted escapades and festive\noccasions.\n\nThese products, while playful, incorporate advanced technology and innovative design, ensuring safety and a\nfun experience for users.\n\n\n## Innovation and R&D\n\nInvestment in R&D is pivotal to our success. With an annual R&D budget of $600,000, we focus on developing\nnew products and enhancing existing ones. Our team, led by Dr. Nefario, is committed to pushing the\nboundaries of imagination and technology.\n\n<!-- PageNumber=\"6 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"7 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 4. Market Analysis\n\n\n## Target Market and Clientele\n\nOur products appeal to a wide range of customers, from children and families looking for fun gadgets to\nhobbyists interested in unique collectibles. Our marketing strategy targets both domestic and international\nmarkets, with a particular focus on regions with a high interest in novelty items.\n\n\n## Competitive Landscape\n\nWhile our market niche is relatively unique, we face competition from other companies in the entertainment\nand novelty sectors. Our competitive edge lies in our brand's recognizability and the unparalleled creativity of\nour products.\n\n\n# 5. Financial Analysis\n\n\n## Revenue Streams\n\nOur primary revenue comes from direct product sales, both online and through select retail partnerships. We\nalso generate income from licensing deals and merchandising.\n\n\n## Cost Analysis\n\nMajor costs include:\n\n\u00b7 Material Costs: $1.2 million\n\n\u00b7 Labor: $1.5 million (including minion salaries)\n\n\u00b7 Marketing: $300,000\n\n\u00b7 R&D: $600,000\n\n\n## Profitability Analysis\n\nDespite high costs, especially in R&D and labor, our unique market position allows for a steady, though\nmodest, profit margin. Continuous investment in marketing and product development is essential for future\ngrowth and profitability.\n\n<!-- PageNumber=\"8 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n# COMPANTY\n<!-- PageNumber=\"9 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 6. Operational Overview\n\n\n## Manufacturing Process\n\nOur manufacturing process is streamlined for efficiency and innovation. The workflow is divided into several\nstages:\n\n1\\. Design and Prototyping: Led by Dr. Nefario and his team, this stage involves brainstorming, sketching,\nand creating prototypes.\n\n2\\. Material Sourcing: We source high-quality, durable materials, ensuring our products are safe and\nlong-lasting.\n\n3\\. Assembly: Minions handle the assembly with precision and care, adhering to strict quality control\nstandards.\n\n4\\. Testing: Each product undergoes rigorous testing to ensure it meets our safety and performance\ncriteria.\n\n\n## Supply Chain Management\n\nWe manage a robust supply chain, balancing cost-effectiveness with quick turnaround times. Our logistics\nteam, supervised by Minion Kevin, ensures timely delivery of materials and finished products.\n\n<!-- PageNumber=\"10 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 7. Human Resources\n\n\n## Staffing and Roles\n\nOur dedicated team is our greatest asset. We employ over 150 minions in various roles, from R&D to\nmanufacturing and sales. Each minion undergoes specialized training to excel in their respective areas.\n\n\n## Compensation and Benefits\n\nWe offer competitive salaries and a comprehensive benefits package, including healthcare, retirement plans,\nand ample vacation time. Our unique workplace culture fosters creativity and teamwork, making Gru's\nEnterprises a desirable place to work.\n\n<!-- PageNumber=\"11 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n## 8. Strategic Challenges and Opportunities\n\n\n## Market Risks\n\nOur business faces several risks, including market fluctuations and changing consumer preferences. The\nnovelty market is fickle, and staying ahead requires constant innovation and adaptability.\n\n\n## Future Growth Opportunities\n\nWe are exploring expansion into new markets and product lines. Potential areas include interactive digital\nexperiences and themed entertainment ventures. Strategic partnerships and brand collaborations are also on\nthe horizon to broaden our reach.\n\n<!-- PageNumber=\"12 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 9. Investment Appeal\n\n\n## Investment Needs\n\nTo achieve our next phase of growth and innovation, we are seeking an investment of $2 million. These funds\nwill be allocated as follows:\n\n\u00b7 R&D Expansion: $800,000 for developing new product lines and enhancing existing products.\n\n\u00b7 Marketing and Branding: $500,000 to expand our market reach and brand recognition.\n\n\u00b7 Operational Upgrades: $400,000 to improve manufacturing efficiency and supply chain management.\n\n. Staff Training and Development: $300,000 to ensure our team remains at the forefront of innovation\nand efficiency.\n\n\n## Return on Investment Projections\n\nWith this investment, we project a 25% increase in annual revenue over the next three years. Our profitability\nis expected to grow by 15% annually, as we streamline operations and expand into new markets. Investors can\nexpect a substantial return on their investment, both financially and in terms of being part of a unique and\ninnovative venture.\n\n<!-- PageNumber=\"13 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"14 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# 10. Appendices\n\n\n## Financial Statements\n\n\n### 1. Balance Sheet\n\no Details assets, liabilities, and equity.\n\u2610\n\n\n#### Balance Sheet\n\n\n<table>\n<tr>\n<th>Assets</th>\n<th>Amount (USD)</th>\n</tr>\n<tr>\n<td>Cash and Cash Equivalents</td>\n<td>$500,000</td>\n</tr>\n<tr>\n<td>Accounts Receivable</td>\n<td>$300,000</td>\n</tr>\n<tr>\n<td>Inventory</td>\n<td>$400,000</td>\n</tr>\n<tr>\n<td>Prepaid Expenses</td>\n<td>$100,000</td>\n</tr>\n<tr>\n<td>Property, Plant, and Equipment</td>\n<td>$1,200,000</td>\n</tr>\n<tr>\n<td>Total Assets</td>\n<td>$2,500,000</td>\n</tr>\n<tr>\n<td>Liabilities and Equity</td>\n<td>Amount (USD)</td>\n</tr>\n<tr>\n<td>Accounts Payable</td>\n<td>$300,000</td>\n</tr>\n<tr>\n<td>Accrued Liabilities</td>\n<td>$200,000</td>\n</tr>\n<tr>\n<td>Long-term Debt</td>\n<td>$1,700,000</td>\n</tr>\n<tr>\n<td>Total Liabilities</td>\n<td>$2,200,000</td>\n</tr>\n<tr>\n<td>Equity</td>\n<td>$300,000</td>\n</tr>\n<tr>\n<td>Total Liabilities and Equity</td>\n<td>$2,500,000</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"15 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n### 2. Cash Flow Statement\n\no Outlines the cash inflows and outflows over the fiscal year.\n\u2610\n\n\n#### Cash Flow Statement\n\n\n<table>\n<tr>\n<th>Description</th>\n<th>Amount (USD)</th>\n</tr>\n<tr>\n<td>Operating Activities</td>\n<td></td>\n</tr>\n<tr>\n<td>Net Income</td>\n<td>$84,000</td>\n</tr>\n<tr>\n<td>Adjustments to Reconcile Net Income</td>\n<td></td>\n</tr>\n<tr>\n<td>Depreciation</td>\n<td>$50,000</td>\n</tr>\n<tr>\n<td>Changes in Working Capital</td>\n<td>$-100,000</td>\n</tr>\n<tr>\n<td>Net Cash from Operating Activities</td>\n<td>$34,000</td>\n</tr>\n<tr>\n<td>Investing Activities</td>\n<td></td>\n</tr>\n<tr>\n<td>Capital Expenditures</td>\n<td>$-200,000</td>\n</tr>\n<tr>\n<td>Net Cash from Investing Activities</td>\n<td>$-200,000</td>\n</tr>\n<tr>\n<td>Financing Activities</td>\n<td></td>\n</tr>\n<tr>\n<td>Long-term Debt Financing</td>\n<td>$1,700,000</td>\n</tr>\n<tr>\n<td>Net Cash from Financing Activities</td>\n<td>$1,700,000</td>\n</tr>\n<tr>\n<td>Net Increase in Cash</td>\n<td>$1,534,000</td>\n</tr>\n<tr>\n<td>Cash at Beginning of Period</td>\n<td>$-1,034,000</td>\n</tr>\n<tr>\n<td>Cash at End of Period</td>\n<td>$500,000</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"16 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n### 3. Profit and Loss Statement\n\no Outlines the profit and loss over the fiscal year.\n\u2610\n\n\n<table>\n<caption>Profit and Loss Statement for the Year 2023</caption>\n<tr>\n<th>Description</th>\n<th>Amount (USD)</th>\n</tr>\n<tr>\n<td>Revenue</td>\n<td></td>\n</tr>\n<tr>\n<td>Product Sales</td>\n<td>$4,200,000</td>\n</tr>\n<tr>\n<td>Total Revenue</td>\n<td>$4,200,000</td>\n</tr>\n<tr>\n<td>Cost of Goods Sold (COGS)</td>\n<td></td>\n</tr>\n<tr>\n<td>Material Costs</td>\n<td>$1,200,000</td>\n</tr>\n<tr>\n<td>Labor (Manufacturing)</td>\n<td>$1,000,000</td>\n</tr>\n<tr>\n<td>Total COGS</td>\n<td>$2,200,000</td>\n</tr>\n<tr>\n<td>Gross Profit</td>\n<td>$2,000,000</td>\n</tr>\n<tr>\n<td>Operating Expenses</td>\n<td></td>\n</tr>\n<tr>\n<td>R&amp;D</td>\n<td>$600,000</td>\n</tr>\n<tr>\n<td>Marketing</td>\n<td>$300,000</td>\n</tr>\n<tr>\n<td>General and Administrative</td>\n<td>$900,000</td>\n</tr>\n<tr>\n<td>Total Operating Expenses</td>\n<td>$1,800,000</td>\n</tr>\n<tr>\n<td>Operating Income</td>\n<td>$200,000</td>\n</tr>\n<tr>\n<td>Other Expenses</td>\n<td></td>\n</tr>\n<tr>\n<td>Interest Expense</td>\n<td>$100,000</td>\n</tr>\n<tr>\n<td>Total Other Expenses</td>\n<td>$100,000</td>\n</tr>\n<tr>\n<td>Net Income Before Taxes</td>\n<td>$100,000</td>\n</tr>\n<tr>\n<td>Taxes (20%)</td>\n<td>$20,000</td>\n</tr>\n<tr>\n<td>Net Income</td>\n<td>$80,000</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"17 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\n# Tables\n\n. R&D Costs: Breakdown of annual research and development expenses.\n\n. Best-selling Products Analysis: Costs, sales, profits, and margins of our top products.\n\n. Top Clients and Purchases: List of major clients and their purchase volumes.\n\n\u00b7 Geographical Distribution of Product Use: Sales data by region and country.\n\n\n## R&D Costs Chart\n\n\n<figure>\n\nR&D Expenditure (USD)\n\n$620,000\n\n$600,000\n\n$580,000\n\n$560,000\n\n$540,000\n\n$520,000\n\n$500,000\n\n$480,000\n\n$460,000\n\n$440,000\n\n2021\n\n2022\n\n2023\n\n</figure>\n\n\n<!-- PageNumber=\"18 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n# Best-selling Products Analysis\n\n\n<table>\n<tr>\n<th>Product</th>\n<th>Cost (USD)</th>\n<th>Sales (USD)</th>\n<th>Profit (USD)</th>\n<th>Gross Margin (%)</th>\n<th>Net Margin (%)</th>\n</tr>\n<tr>\n<td>Freeze Ray</td>\n<td>$100,000</td>\n<td>$500,000</td>\n<td>$150,000</td>\n<td>70%</td>\n<td>30%</td>\n</tr>\n<tr>\n<td>Rocket Boots</td>\n<td>$150,000</td>\n<td>$450,000</td>\n<td>$120,000</td>\n<td>60%</td>\n<td>26.7%</td>\n</tr>\n<tr>\n<td>Bubble Gun</td>\n<td>$80,000</td>\n<td>$300,000</td>\n<td>$100,000</td>\n<td>66.7%</td>\n<td>33.3%</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"19 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n## Top Clients and Purchases\n\n\n<figure>\n\nPurchases (USD)\n\n20%\n\n50%\n\n30%\n\nAcme Corp.\n\nVillainCon\n\nGadget Galaxy\n\n</figure>\n\n\n# Geographical Distribution of Product Use\n\n\n<table>\n<tr>\n<th>Region</th>\n<th>Sales (USD)</th>\n</tr>\n<tr>\n<td>North America</td>\n<td>$1,000,000</td>\n</tr>\n<tr>\n<td>Europe</td>\n<td>$800,000</td>\n</tr>\n<tr>\n<td>Asia</td>\n<td>$600,000</td>\n</tr>\n<tr>\n<td>Rest of the World</td>\n<td>$800,000</td>\n</tr>\n</table>\n\n\n## Infographics and Diagrams\n\n\u00b7 Infographics: Visual representation of the company processes.\n\n<!-- PageNumber=\"20 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"2024-01-06\" -->\n<!-- PageHeader=\"minion-tech.md\" -->\n\n\n<figure>\n\nOORIMINO\n\ncere\n\n@IZW/N8+\n\nHIDE AINTION\n\nAANVARY DEA DEY GNENREDEPENTINT\n1PD A\nSTA\u0141E3\nTO\nSTASE\n\nDE CRE ISTAIN\n\nMIHURTOWOUL\n\nDORMETICINTART\n\n2OO !!\n\nCORSAASDEP\n\nPOCRONENOCHIN'T\n\nRSS19UFO7\n\nIP.\nBA\nLE\n\nCOMPANY\nPROCESS\n\nEVERUPY UO\n98F 0GR4}\n\nMANUAFATURIING\n\nASSSP?\n\nINVELOJ\n\nRESEARCH AND EVEVELOPMENT\n\nOTUNIIO\n\nMg\n\nMARKETNG\n\nPOID\n\nRUAIELHRI\n\nORTID\n\nQUALITY TESTING\n\nNARETHC\nCATIRNISNESS\n\nOOKURE\nSTAIES\n\nRIDERE6\n0.EME\n\nPROUNCDNONING\nEVEVLOPTURONG\n\nBRGDHATYINOn\nEXAPEESGTIGN\n\nSALS\n\n</figure>\n\n\n<!-- PageNumber=\"21 / 22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"minion-tech.md\" -->\n<!-- PageHeader=\"2024-01-06\" -->\n\n\u00b7 Process Flow Diagrams: Illustrations of our manufacturing and development processes.\n\n\n<figure>\n\n\u2612\nIdea Generation\n\nR&D\n\nPrototyping\n\n\u2612\nManufacturing\n\n\u2612\nQuality Testing\n\nMarketing\n\nSales\n\n</figure>\n\n\n<!-- PageNumber=\"22 / 22\" -->\n",
+    "table_images": [],
+    "image_proc_files": [
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.mermaid"
+            ],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.py"
+            ],
+            "image_codeblock": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.codeblock"
+            ],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.py"
+            ],
+            "image_codeblock": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.codeblock"
+            ],
+            "image_mm": [],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.mermaid"
+            ],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.txt"
+            ],
+            "image_markdown": []
+        },
+        {
+            "image_py": [],
+            "image_codeblock": [],
+            "image_mm": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.mermaid"
+            ],
+            "image_text": [
+                "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.txt"
+            ],
+            "image_markdown": []
+        }
+    ],
+    "tags_files": [
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_1.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_2.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_3.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_4.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_5.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_6.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_7.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_8.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_9.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_10.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_11.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\text\\chunk_12.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_1_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_5_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_7_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_9_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_14_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_18_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_20_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_21_image_0.tags.txt",
+        "../indexer_test\\minion-tech.pdf\\images\\chunk_22_image_0.tags.txt"
+    ]
+}
